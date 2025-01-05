@@ -1,1 +1,2 @@
-Tic-Tac-Toe Game made by using HTML,CSS and JavaScript.
+Tic-Tac-Toe Game using HTML,CSS and JavaScript.<br>
+By:- Shruti Chouhan
